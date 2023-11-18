@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voices>
+  <voice id="default">
+    <name>Microsoft Eva Mobile</name>
+    <gender>female</gender>
+  </voice>
+  <voice id="#Macbeth_Mac">
+    <name>Microsoft David</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#LadyMacbeth_Mac">
+    <name>Microsoft Zira</name>
+    <gender>female</gender>
+  </voice>
+  <voice id="#Macduff_Mac">
+    <name>Microsoft Mark</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#Ross_Mac">
+    <name>Microsoft George</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#Malcolm_Mac">
+    <name>Microsoft Richard</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#Banquo_Mac">
+    <name>Microsoft Ravi</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#WITCHES.1_Mac">
+    <name>Microsoft Linda</name>
+    <gender>female</gender>
+    <age>65</age>
+  </voice>
+  <voice id="#WITCHES.2_Mac">
+    <name>Microsoft Hazel</name>
+    <gender>female</gender>
+    <age>65</age>
+  </voice>
+  <voice id="#Lennox_Mac">
+    <name>Microsoft Sean</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#WITCHES.3_Mac">
+    <name>Microsoft Heera</name>
+    <gender>female</gender>
+    <age>65</age>
+  </voice>
+  <voice id="#Duncan_Mac">
+    <name>Microsoft James</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#LadyMacduff_Mac">
+    <name>Microsoft Catherine</name>
+    <gender>female</gender>
+  </voice>
+  <voice id="#Doctor2_Mac">
+    <name>Microsoft Zira</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#MURDERERS.1_Mac">
+    <name>Microsoft Linda</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#MacduffsSon_Mac">
+    <name>Microsoft Hazel</name>
+    <gender>male</gender>
+    <age>10</age>
+  </voice>
+  <voice id="#Gentlewoman_Mac">
+    <name>Microsoft David</name>
+    <gender>female</gender>
+  </voice>
+  <voice id="#Siward_Mac">
+    <name>Microsoft Susan</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#Porter_Mac">
+    <name>Microsoft Heera</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#MURDERERS.2_Mac">
+    <name>Microsoft Catherine</name>
+    <gender>male</gender>
+  </voice>
+  <voice id="#MURDERERS.3_Mac">
+    <name>Microsoft David</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#Seyton_Mac">
+    <name>Microsoft George</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#Donalbain_Mac">
+    <name>Microsoft Richard</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#Menteith_Mac">
+    <name>Microsoft Ravi</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#ATTENDANTS_Mac">
+    <name>Microsoft James</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#OldMan_Mac">
+    <name>Microsoft Mark</name>
+    <gender>neutral</gender>
+    <age>65</age>
+  </voice>
+  <voice id="#Angus_Mac">
+    <name>Microsoft Sean</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#MURDERERS.0.1_Mac">
+    <name>Microsoft Zira</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#YoungSiward_Mac">
+    <name>Microsoft Linda</name>
+    <gender>neutral</gender>
+    <age>10</age>
+  </voice>
+  <voice id="#SERVANTS.X.3_Mac">
+    <name>Microsoft Hazel</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SERVANTS.X.4_Mac">
+    <name>Microsoft Heera</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#Caithness_Mac">
+    <name>Microsoft Susan</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#Lord_Mac">
+    <name>Microsoft Catherine</name>
+    <gender>neutral</gender>
+    <age>65</age>
+  </voice>
+  <voice id="#Hecate_Mac">
+    <name>Microsoft Ravi</name>
+    <gender>female</gender>
+    <age>65</age>
+  </voice>
+  <voice id="#MESSENGERS.3_Mac">
+    <name>Microsoft James</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SOLDIERS.Captain_Mac">
+    <name>Microsoft George</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#MESSENGERS.1_Mac">
+    <name>Microsoft Richard</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#Fleance_Mac">
+    <name>Microsoft Ravi</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SPIRITS.2_Mac">
+    <name>Microsoft David</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#Doctor1_Mac">
+    <name>Microsoft Mark</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SOLDIERS.MALCOLM_Mac">
+    <name>Microsoft Sean</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SPIRITS.1_Mac">
+    <name>Microsoft Zira</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SERVANTS.X.2_Mac">
+    <name>Microsoft Linda</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SPIRITS.3_Mac">
+    <name>Microsoft George</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#MESSENGERS.2_Mac">
+    <name>Microsoft Richard</name>
+    <gender>neutral</gender>
+  </voice>
+  <voice id="#SOLDIERS.MALCOLM.0.1_Mac">
+    <name>Microsoft Mark</name>
+    <gender>neutral</gender>
+  </voice>
+</voices>
