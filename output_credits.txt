@@ -1,0 +1,32 @@
+The character of Witch One was played by Jessie on TikTok Text to Speech.
+The character of Witch Two was played by Amazon Alexa on AWS.
+The character of Witch Three was played by Heather on CereProc Text to Speech.
+The character of Duncan was played by S.A.M. on Commodore 64.
+The character of Malcolm was played by MacinTalk Fred on Mac OS 8.1.
+The character of Donalbain was played by MacinTalk Junior on Mac OS 8.1.
+The character of Macbeth was played by Perfect Paul on DECTalk DTC-01.
+The character of Lady Macbeth was played by Beautiful Betty on DECTalk DTC-01.
+The character of Seyton was played by Animal Crossing's K.K. Slider on Nintendo Gamecube.
+The characters of all Murderers were played by Votrax SC-01 on Apple II+.
+The characters of both Doctors were played by Creative Labs' Dr. Sbaitso on Microsoft MS-DOS.
+The character of the Gentlewoman was played by Crystal on AT&T Natural Voices.
+The character of the Porter was played by Mike on AT&T Natural Voices.
+The character of Banquo was played by CMU Arctic Alan voice on Festival Text to Speech.
+The character of Fleance was played by CMU Arctic James voice on Festival Text to Speech.
+The character of Macduff was played by Microsoft SAM on Windows XP.
+The character of Lady Macduff was played by Microsoft Anna on Windows XP.
+The character of Macduff's Son was played by Bonzi Buddy on Windows XP.
+The character of Lennox was played by Microsoft Sean on Windows 10.
+The character of Ross was played by Microsoft George on Windows 10.
+The character of Angus was played by Microsoft David Desktop on Windows 10.
+The character of Menteith was played by Microsoft James on Windows 10.
+The character of Caithness was played by Microsoft Mark on Windows 10.
+The character of Siward was played by the MBROLA Roger voice on Linux.
+The character of Young Siward was played by the MBROLA U.S. 2 voice on Linux.
+The characters of all Soldiers were played by ST-SPEECH 2.0 on Atari 520ST.
+The character of the Old Man was played by General Instruments SP0256-AL2.
+The character of Hecate was played by Queen Elizabeth II on a trained neural network model.
+The characters of all Spirits were played by a Vocoder on Librivox recordings.
+The characters of all Messengers were played by eSpeak on Linux.
+The characters of all Servants were played by Texas Instruments LPC Speech Synthesis on TI-99/4a.
+The character of the Lord was played by Microsoft Ravi on Windows 10.

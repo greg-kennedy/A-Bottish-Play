@@ -8873,7 +8873,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <c xml:id="c0066330"> </c>
 <w xml:id="w0066340">7</w>
 </head>
-<stage xml:id="stg-0456.2" n="SD 1.7.0" type="mixed">
 <stage xml:id="stg-0456.2a" n="SD 1.7.0" type="business" who="#SERVANTS_Mac">
 <sound xml:id="snd-0456.2a" n="SD 1.7.0" type="flourish" ana="hautboys">
 <w xml:id="w0066350" n="SD 1.7.0">Hautboys</w>
@@ -8910,7 +8909,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <w xml:id="w0066640" n="SD 1.7.0">stage</w>
 <pc xml:id="p0066650" n="SD 1.7.0">.</pc>
 </stage>
-<c xml:id="c0066660" n="SD 1.7.0"> </c>
 <stage xml:id="stg-0456.2b" n="SD 1.7.0" type="entrance" who="#Macbeth_Mac">
 <w xml:id="w0066670" n="SD 1.7.0">Then</w>
 <c xml:id="c0066680" n="SD 1.7.0"> </c>
@@ -8918,7 +8916,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <lb xml:id="lb-04562"/>
 <w xml:id="w0066700" n="SD 1.7.0">Macbeth</w>
 <pc xml:id="p0066710" n="SD 1.7.0">.</pc>
-</stage>
 </stage>
 <lb xml:id="lb-04563"/>
 <lb xml:id="lb-04564"/>
@@ -13507,7 +13504,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 </ab>
 </sp>
 <lb xml:id="lb-07020"/>
-<stage xml:id="stg-0702.1" n="SD 2.2.73.1" type="mixed">
 <stage xml:id="stg-0702.1a" n="SD 2.2.71.1" type="exit" who="#LadyMacbeth_Mac">
 <w xml:id="w0103030" n="SD 2.2.73.1">She</w>
 <c xml:id="c0103040" n="SD 2.2.73.1"> </c>
@@ -13520,13 +13516,11 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <w xml:id="w0103110" n="SD 2.2.73.1">daggers</w>
 <pc xml:id="p0103120" n="SD 2.2.73.1">.</pc>
 </stage>
-<c xml:id="c0103130" n="SD 2.2.73.1"> </c>
 <stage xml:id="stg-0702.1b" n="SD 2.2.71.1" type="business">
 <w xml:id="w0103140" n="SD 2.2.73.1">Knock</w>
 <c xml:id="c0103150" n="SD 2.2.73.1"> </c>
 <w xml:id="w0103160" n="SD 2.2.73.1">within</w>
 <pc xml:id="p0103170" n="SD 2.2.73.1">.</pc>
-</stage>
 </stage>
 <lb xml:id="lb-07021"/>
 <sp xml:id="sp-0703" who="#Macbeth_Mac">
@@ -13923,14 +13917,12 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <c xml:id="c0106250"> </c>
 <w xml:id="w0106260">3</w>
 </head>
-<stage xml:id="stg-0724.2" n="SD 2.3.0" type="mixed">
 <stage xml:id="stg-0724.2a" n="SD 2.3.0" type="business">
 <w xml:id="w0106270" n="SD 2.3.0">Knocking</w>
 <c xml:id="c0106280" n="SD 2.3.0"> </c>
 <w xml:id="w0106290" n="SD 2.3.0">within</w>
 <pc xml:id="p0106300" n="SD 2.3.0">.</pc>
 </stage>
-<c xml:id="c0106310" n="SD 2.3.0"> </c>
 <stage xml:id="stg-0724.2b" n="SD 2.3.0" type="entrance" who="#Porter_Mac">
 <w xml:id="w0106320" n="SD 2.3.0">Enter</w>
 <c xml:id="c0106330" n="SD 2.3.0"> </c>
@@ -13938,7 +13930,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <c xml:id="c0106350" n="SD 2.3.0"> </c>
 <w xml:id="w0106360" n="SD 2.3.0">Porter</w>
 <pc xml:id="p0106370" n="SD 2.3.0">.</pc>
-</stage>
 </stage>
 <lb xml:id="lb-07241"/>
 <lb xml:id="lb-07242"/>
@@ -14371,7 +14362,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <pc xml:id="p0110110" n="2.3.20">!</pc>
 <lb xml:id="lb-07440"/>
 <lb xml:id="lb-07441"/>
-<stage xml:id="stg-0744.1" n="SD 2.3.20.1" type="mixed">
 <stage xml:id="stg-0744.1a" n="SD 2.3.20.1" type="business" who="#Porter_Mac">
 <w xml:id="w0110120" n="SD 2.3.20.1">The</w>
 <c xml:id="c0110130" n="SD 2.3.20.1"> </c>
@@ -14383,7 +14373,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <c xml:id="c0110190" n="SD 2.3.20.1"> </c>
 <w xml:id="w0110200" n="SD 2.3.20.1">door</w>
 </stage>
-<c xml:id="c0110210" n="SD 2.3.20.1"> </c>
 <stage xml:id="stg-0744.1b" n="SD 2.3.20.1" type="entrance" who="#Lennox_Mac #Macduff_Mac">
 <w xml:id="w0110220" n="SD 2.3.20.1">to</w>
 <c xml:id="c0110230" n="SD 2.3.20.1"> </c>
@@ -14393,7 +14382,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <c xml:id="c0110270" n="SD 2.3.20.1"> </c>
 <w xml:id="w0110280" n="SD 2.3.20.1">Lennox</w>
 <pc xml:id="p0110290" n="SD 2.3.20.1">.</pc>
-</stage>
 </stage>
 <lb xml:id="lb-07442"/>
 <lb xml:id="lb-07443"/>
@@ -23143,20 +23131,17 @@ The <att>ana</att> attribute may provide information such as the specific type o
 </ab>
 </sp>
 <lb xml:id="lb-12030"/>
-<stage xml:id="stg-1203.1" n="SD 3.3.26.1" type="mixed">
 <stage xml:id="stg-1203.1a" n="SD 3.3.26.1" type="business" who="#Banquo_Mac">
 <w xml:id="w0177730" n="SD 3.3.26.1">He</w>
 <c xml:id="c0177740" n="SD 3.3.26.1"> </c>
 <w xml:id="w0177750" n="SD 3.3.26.1">dies</w>
 <pc xml:id="p0177760" n="SD 3.3.26.1">.</pc>
 </stage>
-<c xml:id="c0177770" n="SD 3.3.26.1"> </c>
 <stage xml:id="stg-1203.1b" n="SD 3.3.26.1" type="exit" who="#Fleance_Mac">
 <w xml:id="w0177780" n="SD 3.3.26.1">Fleance</w>
 <c xml:id="c0177790" n="SD 3.3.26.1"> </c>
 <w xml:id="w0177800" n="SD 3.3.26.1">exits</w>
 <pc xml:id="p0177810" n="SD 3.3.26.1">.</pc>
-</stage>
 </stage>
 <lb xml:id="lb-12031"/>
 <sp xml:id="sp-1204" who="#MURDERERS.3_Mac">
@@ -29230,7 +29215,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 </ab>
 </sp>
 <lb xml:id="lb-15210"/>
-<stage xml:id="stg-1521.1" n="SD 4.1.43.1" type="mixed">
 <stage xml:id="stg-1521.1a" n="SD 4.1.43.1" type="business">
 <sound xml:id="snd-1521.1a" n="SD 4.1.43.1" type="music">
 <w xml:id="w0225370" n="SD 4.1.43.1">Music</w>
@@ -29252,13 +29236,11 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <w xml:id="w0225510" n="SD 4.1.43.1">etc.</w>
 </sound>
 </stage>
-<c xml:id="c0225530" n="SD 4.1.43.1"> </c>
 <stage xml:id="stg-1521.1b" n="SD 4.1.43.1" type="exit" who="#Hecate_Mac">
 <w xml:id="w0225540" n="SD 4.1.43.1">Hecate</w>
 <c xml:id="c0225550" n="SD 4.1.43.1"> </c>
 <w xml:id="w0225560" n="SD 4.1.43.1">exits</w>
 <pc xml:id="p0225570" n="SD 4.1.43.1">.</pc>
-</stage>
 </stage>
 <lb xml:id="lb-15211"/>
 <milestone unit="page" xml:id="ms-121" n="121" />
@@ -46135,7 +46117,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 </stage>
 <lb xml:id="lb-24041"/>
 <lb xml:id="lb-24042"/>
-<stage xml:id="stg-2404.2" n="SD 5.8.39.2" type="mixed">
 <stage xml:id="stg-2404.2a" n="SD 5.8.39.2" type="business" who="#Macbeth_Mac #Macduff_Mac">
 <w xml:id="w0356090" n="SD 5.8.39.2">They</w>
 <c xml:id="c0356100" n="SD 5.8.39.2"> </c>
@@ -46177,7 +46158,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <pc xml:id="p0356420" n="SD 5.8.39.2">.</pc>
 </sound>
 </stage>
-<lb xml:id="lb-24044"/>
 <stage xml:id="stg-2404.2b" n="SD 5.8.39.2" type="entrance" who="#Malcolm_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac">
 <w xml:id="w0356430" n="SD 5.8.39.2">Enter</w>
 <pc xml:id="p0356440" n="SD 5.8.39.2">,</pc>
@@ -46209,7 +46189,6 @@ The <att>ana</att> attribute may provide information such as the specific type o
 <c xml:id="c0356670" n="SD 5.8.39.2"> </c>
 <w xml:id="w0356680" n="SD 5.8.39.2">Soldiers</w>
 <pc xml:id="p0356690" n="SD 5.8.39.2">.</pc>
-</stage>
 </stage>
 <lb xml:id="lb-24046"/>
 <lb xml:id="lb-24047"/>
