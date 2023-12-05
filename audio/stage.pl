@@ -38,25 +38,23 @@ foreach my $line (@lines) {
   $line =~ s/^\s*//g;
   $line =~ s/\s*$//g;
 
-  #print "sox ";
+  print "sox ";
   my $q = 0;
   foreach my $word (split /\s+/, $line) {
     if ($word eq '!' || $word eq '?' || $word eq '.') {
-  #    print "words/silence-long.flac ";
+      print "words/silence-long.flac ";
       $q = 2;
     } elsif ($word eq ',' || $word eq '"') {
-  #    print "words/silence-short.flac ";
+      print "words/silence-short.flac ";
       $q = 1;
     } else {
-  #    print "words/" . $word . ".flac ";
-  say "git add words/$word.flac";
+      print "words/" . $word . ".flac ";
       $q = 0;
     }
   }
 
-  #if ($q == 0) { print "words/silence-long.flac "; }
-  #elsif ($q == 1) { print "words/silence-short.flac "; }
+  if ($q == 0) { print "words/silence-long.flac "; }
+  elsif ($q == 1) { print "words/silence-short.flac "; }
 
-  #say "$hex.flac";
+  say "$hex.flac";
 }
-

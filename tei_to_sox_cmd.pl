@@ -346,10 +346,6 @@ foreach my $line (@script) {
     $src_file = "audio/$fname/$txt";
   }
 
-open my $fh, '>>', "audio/$fname/$fname.txt";
-if ($txt ne 'credit') { say $fh $txt }
-close $fh;
-
   my $dest_file = sprintf("/tmp/mac/%05d.wav", $line_count);
   if (-e "$src_file.flac") {
     say "sox --norm $src_file.flac -r 44100 -b16 $dest_file";
