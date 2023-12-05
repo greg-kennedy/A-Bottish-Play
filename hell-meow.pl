@@ -9,7 +9,7 @@ use Digest::MD5 qw(md5_hex);
 my $macbeth_words = 17959;
 
 # oh god
-my @aud_files  = glob("*/meow.flac */meow.mp3");
+my @aud_files  = glob("audio/*/meow.flac audio/*/meow.mp3");
 
 `rm -rf /tmp/mix_tmp`;
 `mkdir -p /tmp/mix_tmp`;
